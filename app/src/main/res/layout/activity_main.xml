@@ -1,18 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
+
+<ScrollView android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillViewport="true">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        <TextView
+            android:id="@+id/searchTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Search/Report URL"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_medium"
+            android:textSize="20sp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardURL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            app:cardBackgroundColor="#4110A4"
+            app:layout_constraintTop_toBottomOf="@+id/searchTitle"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent">
+
+            <EditText
+                android:id="@+id/textURL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:gravity="center"
+                android:hint="Enter the URL you want to search/report here"
+                android:textSize="17sp"
+                android:fontFamily="@font/poppins_medium"
+                android:background="@drawable/rounded_edittext"
+                android:imeOptions="actionDone"
+                android:inputType="text"
+                android:maxLines="1"
+                android:minHeight="48dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/report_button"
+            android:background="@drawable/report_button"
+            android:backgroundTint="#F03D3D"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@id/cardURL"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/search_button"
+            android:text="report"
+            android:fontFamily="@font/poppins_bold"/>
+
+        <Button
+            android:id="@+id/search_button"
+            android:background="@drawable/search_button"
+            android:backgroundTint="#4110A4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@id/cardURL"
+            app:layout_constraintLeft_toRightOf="@id/report_button"
+            app:layout_constraintRight_toRightOf="parent"
+            android:text="search"
+            android:fontFamily="@font/poppins_bold"/>
+
+        <TextView
+            android:id="@+id/phisingTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Top Recent Phising Links"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_medium"
+            android:textSize="20sp"
+            android:layout_marginTop="20dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/report_button" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/recyclerviewPhising"
+            android:scrollbars="vertical"
+            app:layout_constraintTop_toBottomOf="@+id/phisingTitle"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"/>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
