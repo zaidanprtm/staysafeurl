@@ -9,10 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.StaySafeURL">
+        <activity android:name=".ReportActivity"></activity>
+        <activity android:name=".ResultActivity" />
         <activity
             android:name=".SplashScreen"
-            android:label="Stay Safe URL"
             android:exported="true"
+            android:label="Stay Safe URL"
             android:theme="@style/Theme.Transparent">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,10 +22,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"
+        <activity
+            android:name=".MainActivity"
             android:label="Stay Safe URL"
-            android:theme="@style/Theme.StaySafeURL">
-        </activity>
+            android:theme="@style/Theme.StaySafeURL" />
     </application>
 
 </manifest>
