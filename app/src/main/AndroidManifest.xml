@@ -10,8 +10,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.StaySafeURL">
-        <activity android:name=".ReportActivity"></activity>
-        <activity android:name=".ResultActivity" />
+        <activity android:name=".ReportActivity"
+            android:label = "Report Page"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=
+                    "com.zaidanpratama.staysafeurl.ReportActivity" />
+        </activity>
+        <activity android:name=".ResultActivity"
+            android:label = "Result Page"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=
+                    "com.zaidanpratama.staysafeurl.ResultActivity" />
+        </activity>
         <activity
             android:name=".SplashScreen"
             android:exported="true"
