@@ -1,19 +1,19 @@
 package com.zaidanpratama.staysafeurl
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.widget.Button
 import android.widget.EditText
-import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import org.json.JSONObject
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
+
 
 class MainActivity : AppCompatActivity() {
     private lateinit var recyclerView : RecyclerView
@@ -52,6 +52,7 @@ class MainActivity : AppCompatActivity() {
 //                    println(responseApi)
                     for (i in responseApi!!.indices){
                         val number = i + 1
+                        number.toString() + "."
                         val phising = ListItem(number.toString(), responseApi[i].url, responseApi[i].ip)
                         newArrayList.add(phising)
                     }
@@ -59,6 +60,7 @@ class MainActivity : AppCompatActivity() {
                     recyclerView.adapter = adapter
 
                 } else {
+                    println("Error")
                 }
             }
 
@@ -88,6 +90,74 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onFailure(call: Call<ReportResponse>, t: Throwable) {
+                println(t.message)
+            }
+        })
+    }
+
+    fun scanURL(view: View) {
+        val base_url = "https://www.virustotal.com/"
+        val retrofitBuilder = Retrofit.Builder().addConverterFactory(GsonConverterFactory.create()).baseUrl(base_url).build().create(Api::class.java)
+        val resultData = retrofitBuilder.scanData("a0d7d09bab51a2fccd1e796bd176cbd576d6064f997eb29baca028ed75936523", url.text.toString())
+
+        resultData.enqueue(object: Callback<ResultResponse> {
+
+            override fun onResponse(call: Call<ResultResponse>, response: Response<ResultResponse>) {
+                if (response.isSuccessful) {
+                    var responseApi = response.body()
+                    print(responseApi)
+                    var scanResult = responseApi?.scans
+                    var cmc = scanResult?.cMCThreatIntelligence?.result
+                    var bitdefender = scanResult?.bitDefender?.result
+                    var armis = scanResult?.armis?.result
+                    var phishlabs = scanResult?.phishLabs?.result
+                    var viriback = scanResult?.viriBack?.result
+                    var cyren = scanResult?.cyren?.result
+                    var quttera = scanResult?.quttera?.result
+                    var openphish = scanResult?.openPhish?.result
+                    var blocklist = scanResult?.blockList?.result
+                    var alienvault = scanResult?.alienVault?.result
+                    var cyan = scanResult?.cyan?.result
+                    var phishtank = scanResult?.phishtank?.result
+                    var phisingdatabase = scanResult?.phishingDatabase?.result
+                    var googlesafe = scanResult?.googleSafebrowsing?.result
+                    var safetoopen = scanResult?.safeToOpen?.result
+                    var malwaredomain = scanResult?.malwareDomainList?.result
+                    var malwarepatrol = scanResult?.malwarePatrol?.result
+                    var fraudscore = scanResult?.fraudScore?.result
+                    var tencent = scanResult?.tencent?.result
+                    var vxvault = scanResult?.vXVault?.result
+                    var securebrain = scanResult?.secureBrain?.result
+                    val intent = Intent(this@MainActivity, ResultActivity::class.java)
+                    intent.putExtra("url", responseApi?.url.toString())
+                    intent.putExtra("cmc", cmc)
+                    intent.putExtra("bitdefender", bitdefender)
+                    intent.putExtra("armis", armis)
+                    intent.putExtra("phishlabs", phishlabs)
+                    intent.putExtra("viriback", viriback)
+                    intent.putExtra("cyren", cyren)
+                    intent.putExtra("quttera", quttera)
+                    intent.putExtra("openphish", openphish)
+                    intent.putExtra("blocklist", blocklist)
+                    intent.putExtra("alienvault", alienvault)
+                    intent.putExtra("cyan", cyan)
+                    intent.putExtra("phishtank", phishtank)
+                    intent.putExtra("phisingdatabase", phisingdatabase)
+                    intent.putExtra("googlesafe", googlesafe)
+                    intent.putExtra("safetoopen", safetoopen)
+                    intent.putExtra("malwaredomain", malwaredomain)
+                    intent.putExtra("malwarepatrol", malwarepatrol)
+                    intent.putExtra("fraudscore", fraudscore)
+                    intent.putExtra("tencent", tencent)
+                    intent.putExtra("vxvault", vxvault)
+                    intent.putExtra("securebrain", securebrain)
+                    startActivity(intent)
+                } else {
+                    println("error")
+                }
+            }
+
+            override fun onFailure(call: Call<ResultResponse>, t: Throwable) {
                 println(t.message)
             }
         })

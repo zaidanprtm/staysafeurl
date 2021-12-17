@@ -45,7 +45,7 @@
                 android:layout_marginEnd="10dp"
                 android:gravity="center"
                 android:hint="Enter the URL you want to search/report here"
-                android:textSize="17sp"
+                android:textSize="15sp"
                 android:fontFamily="@font/poppins_medium"
                 android:background="@drawable/rounded_edittext"
                 android:imeOptions="actionDone"
@@ -59,6 +59,7 @@
 
         <Button
             android:id="@+id/report_button"
+            android:background="@drawable/report_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -68,14 +69,13 @@
             android:text="report"
             android:fontFamily="@font/poppins_bold"
             android:clickable="true"
-            android:onClick="reportURL"
-            tools:ignore="ButtonStyle"/>
+            android:onClick="reportURL"/>
 
         <Button
             android:id="@+id/search_button"
             android:background="@drawable/search_button"
-            android:backgroundTint="#4110A4"
             android:clickable="true"
+            android:onClick="scanURL"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
