@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity() {
     fun reportURL(view: View) {
         val base_url = "https://www.virustotal.com/"
         val retrofitBuilder = Retrofit.Builder().addConverterFactory(GsonConverterFactory.create()).baseUrl(base_url).build().create(Api::class.java)
-        val reportData = retrofitBuilder.pushData("a0d7d09bab51a2fccd1e796bd176cbd576d6064f997eb29baca028ed75936523", url.text.toString())
+        val reportData = retrofitBuilder.pushData("", url.text.toString())
 
         reportData.enqueue(object: Callback<ReportResponse> {
 
@@ -86,11 +86,15 @@ class MainActivity : AppCompatActivity() {
                     startActivity(intent)
                 } else {
                     println("error")
+                    val intent = Intent(this@MainActivity, ErrorActivity::class.java)
+                    startActivity(intent)
                 }
             }
 
             override fun onFailure(call: Call<ReportResponse>, t: Throwable) {
                 println(t.message)
+                val intent = Intent(this@MainActivity, ErrorActivity::class.java)
+                startActivity(intent)
             }
         })
     }
@@ -98,7 +102,7 @@ class MainActivity : AppCompatActivity() {
     fun scanURL(view: View) {
         val base_url = "https://www.virustotal.com/"
         val retrofitBuilder = Retrofit.Builder().addConverterFactory(GsonConverterFactory.create()).baseUrl(base_url).build().create(Api::class.java)
-        val resultData = retrofitBuilder.scanData("a0d7d09bab51a2fccd1e796bd176cbd576d6064f997eb29baca028ed75936523", url.text.toString())
+        val resultData = retrofitBuilder.scanData("", url.text.toString())
 
         resultData.enqueue(object: Callback<ResultResponse> {
 
@@ -154,11 +158,15 @@ class MainActivity : AppCompatActivity() {
                     startActivity(intent)
                 } else {
                     println("error")
+                    val intent = Intent(this@MainActivity, ErrorActivity::class.java)
+                    startActivity(intent)
                 }
             }
 
             override fun onFailure(call: Call<ResultResponse>, t: Throwable) {
                 println(t.message)
+                val intent = Intent(this@MainActivity, ErrorActivity::class.java)
+                startActivity(intent)
             }
         })
     }
