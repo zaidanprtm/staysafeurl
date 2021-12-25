@@ -1,0 +1,691 @@
+﻿1
+00:00:03,000 --> 00:00:06,000
+Zaidan :Assalamualaikum warrahmatullah hibawarakatuh
+
+2
+00:00:06,000 --> 00:00:09,000
+Reza: Walaikumsalam warrahmatullah hiwabarakatuh
+
+3
+00:00:09,000 --> 00:00:16,000
+Zaidan :Perkenalkan nama saya Zaidan Pratama saya seorang mahasiswa ilmu komputer
+
+4
+00:00:16,000 --> 00:00:22,000
+Zaidan : Annggakatan 2018 di Universitas Negeri Jakarta
+
+5
+00:00:22,000 --> 00:00:30,000
+Zaidan : Pada kesempatan kali ini saya ingin mengadakan wawancara user testing
+
+6
+00:00:30,000 --> 00:00:36,000
+Zaidan : untuk aplikasi yang saya kembannggakan pada mata kuliah Mobile Computing.
+
+7
+00:00:36,000 --> 00:00:44,000
+Zaidan : Sebelumnya di sini saya bersama dengan Mas Reza, boleh diperkenalkan mas?
+
+8
+00:00:44,000 --> 00:00:54,000
+Reza : Ya, nama saya Reza Nurdiansyah Firdaus kuliah di STMI Jakarta tinggal juga di Jakarta
+
+9
+00:00:54,000 --> 00:00:56,960
+Reza : Jurusan Sistem Informasi
+
+10
+00:00:57,960 --> 00:01:04,600
+Zaidan : Kalo kesehariannya gimana mas,sibuk kuliah aja atau ada magang atau gimana mas?
+
+11
+00:01:04,600 --> 00:01:09,440
+Reza : Sekarang sih lagi cuman sibuk kuliah aja ya,soalnya tugasnya sih banyak banget
+
+12
+00:01:09,440 --> 00:01:16,080
+Zidan : Ohh ok ok, berarti jurusan sistem informasi di STMI Jakarta ya
+
+13
+00:01:16,080 --> 00:01:18,080
+Reza : Ya,betul
+
+14
+00:01:18,080 --> 00:01:27,600
+Zaidan : Oke Mas,sebelumnya berarti sudah familiar dengan yang namanya link atau url ya mas ya karena kan anak sistem informasi
+
+15
+00:01:27,600 --> 00:01:31,640
+Reza : Ya sangat familiar lah,cukup lumayan familiar
+
+16
+00:01:31,640 --> 00:01:39,800
+Zaidan : Nah,sebelumnya mas pernah kena phising atau kena ransom atau semacamnya nggak mas?
+
+17
+00:01:39,800 --> 00:01:46,800
+Zaidan : Gara gara salah ngeakses url atau semacamnya atau gimana gitu mas,pernah?
+
+18
+00:01:49,000 --> 00:01:58,700
+Kalo ransomware sih belom pernah deh cuman munnggakin kalo virus dari download yang web link link aneh gitu kayanya pernah deh
+
+19
+00:01:59,400 --> 00:02:09,440
+Zaidan : Oh pernah ya mas berarti. Itu tuh efeknya gimana mas,harus digimanain mas waktu itu? Mengatasinya gimana mas?
+
+20
+00:02:10,040 --> 00:02:15,320
+Mengatasinya sih waktu itu langsung install ulang windows ya. Soalnya bingung mau ngapain lagi
+
+21
+00:02:15,330 --> 00:02:17,270
+Zidan : Itu kira kira kejadiannya kapan ya mas? Inget nggak mas?
+
+22
+00:02:17,280 --> 00:02:24,920
+Ya pertengahan agustus
+
+23
+00:02:24,920 --> 00:02:34,000
+Zaidan : Zidan : Ohh ok ok,berarti kan masih sekitaran agustus atau september 2021 ya?
+
+24
+00:02:34,000 --> 00:02:43,440
+Zaidan : Nah ini mas karena persyaratan wawancara ini harus menunjukan bukti bahwa targetnya sesuai
+
+25
+00:02:43,440 --> 00:02:52,120
+Zaidan : nah kita boleh sharescreen nggak mas buat. Kan ini install ulangnya berarti agustus atau september ya mas
+
+26
+00:02:52,120 --> 00:03:01,480
+Zaidan : munnggakin bisa diliatin history downloadnya itukan harusnya paling tuanya itu di sekitaran agustus atau september kan berarti
+
+27
+00:03:01,480 --> 00:03:04,960
+Zaidan : Karenakan install ulang otomatis folder downloadnya kan ke format gitu
+
+28
+00:03:05,480 --> 00:03:07,000
+Zaidan :  Boleh di shares creen mas?
+
+29
+00:03:07,000 --> 00:03:08,960
+Boleh, sebentar
+
+30
+00:03:08,960 --> 00:03:13,920
+Di.. disable mas
+
+31
+00:03:13,920 --> 00:03:16,320
+Zaidan : Oh.bentar bentar bentar
+
+32
+00:03:32,920 --> 00:03:35,480
+Zaidan : Nih sudah saya jadiin host biar bisa sharescreen
+
+33
+00:03:35,480 --> 00:03:35,920
+Ok
+
+34
+00:03:41,000 --> 00:03:42,420
+Keliatan nggak mas?
+
+35
+00:03:42,420 --> 00:03:44,420
+Zaidan : Ok,keliatan
+
+36
+00:03:46,500 --> 00:03:50,200
+Zaidan : Itu dah di search ya berdasarkan date?
+
+37
+00:03:50,200 --> 00:03:51,600
+Udah.. udah
+
+38
+00:03:51,600 --> 00:04:05,560
+Zaidan : Ok itu berarti paling tuanya bulan 24 9 ya. Berarti bulan september berarti pertengahan ini kena virusnya ya?
+
+39
+00:04:05,560 --> 00:04:07,440
+Yes
+
+40
+00:04:07,440 --> 00:04:14,120
+Zaidan : Ok,itu kira kira waktu itu gimana mas kronologinya,kok bisa kena virus gitu?
+
+41
+00:04:16,020 --> 00:04:23,800
+Waktu itu kalo gak salah sih lagi pengen download game ya di web,ada salah satu web di google gitu
+
+42
+00:04:24,840 --> 00:04:33,560
+Abis install gitu jadi lelet,main game lancar jadi drop fps gitu sih.
+
+43
+00:04:33,560 --> 00:04:39,600
+Zaidan : Oh,dari situ udah beranggapan kalo bahwa kena virus ya berarti ya
+
+44
+00:04:39,600 --> 00:04:41,240
+Zaidan : Jadi langsung diinstal ulang
+
+45
+00:04:41,240 --> 00:04:44,200
+Zaidan : Pas banget setelah download game itu mas?
+
+46
+00:04:45,430 --> 00:04:48,300
+Reza : Ya,pas habis download langsung install kan biasanya
+
+47
+00:04:49,400 --> 00:04:50,800
+Reza : Nah itu langsung tuh
+
+48
+00:04:52,240 --> 00:04:55,200
+Reza : Langsung kaya berasa deh,kaya berat gitu komputernya.
+
+49
+00:04:55,200 --> 00:04:58,160
+Zaidan : Oke,boleh di stop share gak papa.
+
+50
+00:04:59,000 --> 00:05:00,200
+Reza : Oke
+
+51
+00:05:01,000 --> 00:05:03,360
+Zaidan : Dan,jadiin host lagi sayanya.
+
+52
+00:05:08,000 --> 00:05:08,920
+Reza : Done
+
+53
+00:05:11,800 --> 00:05:12,200
+Zaidan : Dah ya.
+
+54
+00:05:13,000 --> 00:05:13,720
+Dah
+
+55
+00:05:13,720 --> 00:05:15,000
+Zaidan : Oke
+
+56
+00:05:16,500 --> 00:05:27,200
+Zaidan : Nah,kira kira karna pernah pengalaman itu mas kalo ada sebuah aplikasi yang bisa ngecek  link keamanannya itu kira kira tertarik nggak mas?
+
+57
+00:05:27,200 --> 00:05:33,560
+Tertarik sih,soalnya kan juga sekarang banyak orang yang share share link gak jelas gitu kan
+
+58
+00:05:33,560 --> 00:05:39,280
+Itu juga kadang kadang suka ada email masuk yang gak jelas takutnya gitu
+
+59
+00:05:39,280 --> 00:05:44,530
+Zaidan : Ya ya,ok mas. Jadi saya sudah mengembangakan sebuah aplikasi untuk mengecek keamanan sebuah link
+
+60
+00:05:45,640 --> 00:05:53,920
+Zaidan : Nah ini saya share link aplikasinya ke Mas Reza
+
+61
+00:06:07,000 --> 00:06:09,680
+Zaidan : Saya share di sini
+
+62
+00:06:12,800 --> 00:06:13,640
+Zaidan : Itu mas
+
+63
+00:06:14,350 --> 00:06:15,280
+Oh iya
+
+64
+00:06:17,280 --> 00:06:20,680
+Zaidan : Silahkan di download mas. Entar kalo udah bisa di kabarin
+
+65
+00:06:21,800 --> 00:06:23,880
+Lagi di download si.
+
+66
+00:06:24,000 --> 00:06:25,880
+Cuman kaya agak lama dikit
+
+67
+00:06:48,000 --> 00:06:49,500
+Oh udah nih mas,dah selesai ke download
+
+68
+00:06:49,500 --> 00:06:53,400
+Zaidan : Ok bisa di buka mas aplikasinya?
+
+69
+00:06:54,840 --> 00:06:56,000
+Bisa
+
+70
+00:06:56,000 --> 00:07:07,420
+Zaidan : Oke, nah itukan pertama ada fitur melihat yang phissing link paling baru kumpulan phissing link paling baru
+
+71
+00:07:07,420 --> 00:07:11,680
+Zaidan : Nah disitu apakah bekerja mas fiturnya?
+
+72
+00:07:13,320 --> 00:07:15,160
+Muncul kok bekerja
+
+73
+00:07:15,500 --> 00:07:19,360
+Zaidan : Ada berapa link mas disitu yang muncul
+
+74
+00:07:20,080 --> 00:07:21,520
+Dua puluh
+
+75
+00:07:21,440 --> 00:07:22,080
+Oke
+
+76
+00:07:22,900 --> 00:07:33,480
+Zaidan : Nah kalo dari tanggapan mas reza sendiri untuk fitur ini kira kira ada masukan atau kaya tanggapan tentang fitur ini?
+
+77
+00:07:36,690 --> 00:07:42,040
+Sebenernya sih fitur ini kaya lebih diperjelas lagi gak sih kaya nama linknya biasanya gitu
+
+78
+00:07:42,520 --> 00:07:43,480
+Sama..
+
+79
+00:07:44,760 --> 00:07:48,480
+Munnggakin daripada perpanjang ke bawah agak kesamping
+
+80
+00:07:48,480 --> 00:07:50,480
+Dibikin lebar
+
+81
+00:07:51,010 --> 00:07:52,480
+Ohhh ok
+
+82
+00:07:53,260 --> 00:07:56,040
+Zaidan : Sama apa mas tadi,sorry
+
+83
+00:07:56,040 --> 00:08:01,240
+Sama font warnanya munnggakin agak sedikit ke soft gitu
+
+84
+00:08:01,240 --> 00:08:04,880
+Zaidan : Oke berarti permasalahan tampilan ya mas
+
+85
+00:08:05,200 --> 00:08:05,880
+Ya
+
+86
+00:08:05,880 --> 00:08:13,480
+Zaidan : Oke, tapi secara informasi tadi kurang detail tambahin lebih detail lagi ya mas ya
+
+87
+00:08:14,100 --> 00:08:14,480
+Ya
+
+88
+00:08:15,640 --> 00:08:25,400
+Oke. Berarti akan saya pertimbannggakan untuk menambah itu dan juga merubah tampilannya
+
+89
+00:08:25,400 --> 00:08:31,360
+Nah terus yang kedua kan itu diatasnya kan ada form ya mas membuat masukin teks kan
+
+90
+00:08:31,360 --> 00:08:38,160
+Nah itu tujuannya adalah agar bisa di masukin link
+
+91
+00:08:38,160 --> 00:08:45,970
+Nah nantikan ada dua tombol tuh report sama search nah mas reza bisa coba salah satunya terlebih dahulu
+
+92
+00:08:45,970 --> 00:08:53,040
+entah report atau search terus Mas Reza linknya masukin dan klik tombolnya. KIra kira itu bisa atau engga mas
+
+93
+00:08:53,040 --> 00:08:55,640
+Ini saya coba yang search dulu ya
+
+94
+00:08:55,640 --> 00:08:56,760
+Boleh boleh mas
+
+95
+00:09:02,700 --> 00:09:05,400
+Ini kalo ada tulisan scan finish itu berarti bisa ya?
+
+96
+00:09:05,400 --> 00:09:07,400
+Udah udah mas berarti
+
+97
+00:09:08,500 --> 00:09:11,600
+Oke ini ada scan resultnya juga dah keluar
+
+98
+00:09:13,320 --> 00:09:18,000
+Ya mas boleh boleh. Berarti bisa ya mas fiturnya
+
+99
+00:09:18,700 --> 00:09:20,000
+Bisa bisa
+
+100
+00:09:19,960 --> 00:09:25,560
+Oke kalo dari tampilan atau fungsi ada masukkan nggak mas?
+
+101
+00:09:27,510 --> 00:09:33,080
+Munnggakiin fungsinya dah cukup ya. Munnggakin tampilannya lagi kali dengan warnanya munnggakin ya
+
+102
+00:09:33,080 --> 00:09:35,560
+Balik lagi dengan tampilan dan warna ya mas ya
+
+103
+00:09:35,560 --> 00:09:36,500
+Iya
+
+104
+00:09:37,280 --> 00:09:39,600
+Secara informasi gimana mas?
+
+105
+00:09:39,600 --> 00:09:45,600
+Dari itukan banyak vendor keamanan kan tuh? Ada vendor keamannya yang Mas Reza tahu nggak sih?
+
+106
+00:09:45,600 --> 00:09:48,080
+Jadi terlihat terpecaya gitu
+
+107
+00:09:49,880 --> 00:09:54,040
+Ada googlesafe browisng, ada bitdefender juga
+
+108
+00:09:54,040 --> 00:09:57,720
+Jadi sih ada beberapa yang saya tahu kan ya. Cuman jadi terpecaya gitu sih
+
+109
+00:09:57,720 --> 00:10:02,800
+Munnggakin cukup sih untuk fitur yang ini. Cukup untuk dimengerti
+
+110
+00:10:03,840 --> 00:10:10,200
+Oke oke. Berarti saran dan masukannya balik lagi ke masalah tampilan warna gitu gitu ya
+
+111
+00:10:10,200 --> 00:10:14,360
+Zaidan : Oke. Bisa dicoba yang satunya mas yang report.
+
+112
+00:10:21,280 --> 00:10:22,760
+Muncul nih
+
+113
+00:10:23,840 --> 00:10:30,760
+Oke itu bisa diliat liat dulu mas disitu ada banyak menunya kan ya
+
+114
+00:10:30,760 --> 00:10:36,720
+Nah itu tombol report itu fungsinya untuk. Kita mereport link yang mencurigakan gitu
+
+115
+00:10:36,720 --> 00:10:43,720
+nanti kita liat hasil reportnya disitu apakah emang mencurigakan bahaya atau aman gitu mas
+
+116
+00:10:45,400 --> 00:10:49,920
+Bisa dilihat disitu ada beberapa menu dari tampilannya
+
+117
+00:10:50,640 --> 00:10:53,760
+Berarti nih kalo malicious itu berbahaya?
+
+118
+00:10:54,000 --> 00:10:57,640
+Iya,ada indikasi mencurigakan gitu
+
+119
+00:10:58,000 --> 00:10:58,900
+Ahhh
+
+120
+00:11:01,320 --> 00:11:02,840
+Muncul nih banyak
+
+121
+00:11:04,760 --> 00:11:06,500
+Kalo summary itu buat apa ya mas?
+
+122
+00:11:07,000 --> 00:11:14,050
+Summary itu jadi kaya kesimpulannya mas kan itu ada beberapa yang aman ada beberapa yang gak aman. Ada yang merah dan hijau kan
+
+123
+00:11:18,000 --> 00:11:22,000
+Ini sih juga ada detailnya juga dikasih tau di tampilin
+
+124
+00:11:26,960 --> 00:11:29,320
+Lancar kok mas aplikasinya
+
+125
+00:11:32,120 --> 00:11:37,840
+Oke udah berarti udah report tuh fungsionalitsanya bisa ya mas
+
+126
+00:11:38,160 --> 00:11:39,760
+Bisa,udah cukup kok
+
+127
+00:11:39,760 --> 00:11:43,480
+Kalo dari tanggapan Mas Reza gimana tentang fitur report ini?
+
+128
+00:11:44,320 --> 00:11:47,480
+Saya sih sangat bagus soalnya disini ada fitur community juga kan ya
+
+129
+00:11:47,480 --> 00:11:50,040
+Jadi kaya misalkan bisa ngobrol sama orang lain
+
+130
+00:11:50,500 --> 00:11:54,080
+Jadi biar misalkan gak tau bisa nanya disininya langsung
+
+131
+00:11:54,720 --> 00:11:58,680
+Oke. Berarti itu udah tampilan reportnya ya
+
+132
+00:12:00,700 --> 00:12:07,600
+Kalo secara keseluruhan nih mas dari aplikasinya nih kalo dari Mas Reza tuh ada tanggapan nggak sih?
+
+133
+00:12:08,960 --> 00:12:12,440
+Kalo menurut saya aplikasinya sudah cukup baik cuman
+
+134
+00:12:13,480 --> 00:12:18,440
+disini saya komplainnya tentang tampilannya lagi ya soalnya warnanya tuh sangat
+
+135
+00:12:19,100 --> 00:12:25,800
+monoton dan juga diliat dilayar juga gak bisa lama-lama soalnya itu terlalu cerah.
+
+136
+00:12:25,800 --> 00:12:33,080
+kalo bisa make warna yang lebih soft agar tidak terlalu tajam di buat mata.
+
+137
+00:12:33,080 --> 00:12:39,440
+Oke berarti secara tampilan itu kurang nyaman ya ma untuk mata ya berarti
+
+138
+00:12:39,990 --> 00:12:40,740
+Iya
+
+139
+00:12:41,880 --> 00:12:50,080
+Sama tadi tuh kalo saya rekap tentang masalah font sama ukuran tadi
+
+140
+00:12:50,080 --> 00:12:53,920
+harusnya perpanjang kekanan aja jangan bikin ke bawah gitu ya mas
+
+141
+00:12:54,400 --> 00:12:55,100
+Iya
+
+142
+00:12:56,720 --> 00:13:03,000
+Oke kalo Mas Reza sendiri nih ada saran gak sih buat pengembangan fitur selanjutnya
+
+143
+00:13:03,640 --> 00:13:06,880
+tentang aplikasi untuk ngescan link ini atau gimana mas?
+
+144
+00:13:10,240 --> 00:13:13,000
+Hmm menurut saya ya
+
+145
+00:13:15,920 --> 00:13:17,880
+Kayanya untuk sekarang sih cukup deh
+
+146
+00:13:18,240 --> 00:13:23,520
+soalnya inikan kaya fiturnya dah lennggakap dah detail lah udah ngasih tau summarnya juga
+
+147
+00:13:24,160 --> 00:13:27,200
+terus ada fitur detailnya jugakan tadi direportnya
+
+148
+00:13:27,200 --> 00:13:27,920
+Iya
+
+149
+00:13:28,480 --> 00:13:30,880
+So far so good sih cukup
+
+150
+00:13:33,280 --> 00:13:40,720
+Oke mas. Makasih mas berarti untuk pengembangannya selanjutnya fiturnya sudah cukup
+
+151
+00:13:40,720 --> 00:13:48,760
+untuk masalah tampilan aja ya yang di perbaiki dan di perbagus lah intinya
+
+152
+00:13:49,880 --> 00:13:50,760
+Iya
+
+153
+00:13:50,760 --> 00:13:54,080
+Oke. Kalo gitu
+
+154
+00:13:54,700 --> 00:13:56,080
+Oh iya boleh saya tanya lagi nggak mas?
+
+155
+00:13:56,080 --> 00:13:58,080
+Ini kira kira nih kalo misalkan
+
+156
+00:13:58,960 --> 00:14:05,920
+Mas menyarankan misalkan aplikasi ini sarankan aplikasi ini ke teman mas atau
+
+157
+00:14:05,920 --> 00:14:10,800
+ke linnggakungan mas gitu kira kira ada potensial menyarankan aplikasini kaya
+
+158
+00:14:10,800 --> 00:14:12,960
+eh coba deh pake ini, ada nggak sih mas?
+
+159
+00:14:13,800 --> 00:14:16,760
+Munnggakin lebih ke keluarga kali ya
+
+160
+00:14:16,760 --> 00:14:23,040
+soalnya kan kadang ada yg suka ngeshare link link di grup suka nggak jelas gitu kan
+
+161
+00:14:23,040 --> 00:14:24,640
+munnggakin bisa di share ke situ sih
+
+162
+00:14:25,040 --> 00:14:26,920
+Oke baik mas
+
+163
+00:14:26,920 --> 00:14:32,500
+Berarti memang sih penyebaran link itu sekarang sangat gampang dan
+
+164
+00:14:32,500 --> 00:14:36,840
+apalagi untuk orang orang yang kurang perhatian dengan
+
+165
+00:14:36,840 --> 00:14:40,600
+keamanan link itu asal pencet aja gitu mas ya
+
+166
+00:14:40,600 --> 00:14:42,100
+Ya betul
+
+167
+00:14:42,100 --> 00:14:46,760
+Ya ok berarti kalau kaya gitu cukup sih mas
+
+168
+00:14:46,760 --> 00:14:50,040
+Saya akhiri, sebelumnya terima kasih banyak
+
+169
+00:14:50,040 --> 00:14:54,560
+udah hadir di pada malam hari ini
+
+170
+00:14:54,560 --> 00:14:58,720
+udah bisa menyempatkan waktu
+
+171
+00:14:58,720 --> 00:15:04,360
+makasih banget buat Mas Reza semoga kuliahnya lancar
+
+172
+00:15:04,360 --> 00:15:11,480
+semoga sehat selalu. Terima kasih mas, saya end ya vidionya mas
+
+173
+00:15:11,480 --> 00:15:13,480
+Terima Kasih juga
