@@ -12,7 +12,7 @@ https://play.google.com/store/apps/details?id=com.zaidanpratama.staysafeurl
 Testing conducted on Friday, 24 December 2021
 
 # Recording Links
-1.
+1. https://youtu.be/MVtF7grVvrY (Reza Nurdiansyah F)
 2.
 3.
 
