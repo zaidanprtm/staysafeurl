@@ -17,6 +17,6 @@ Testing conducted on Friday, 24 December 2021
 3.
 
 Subs link:
-1.
+1. https://github.com/zaidanprtm/staysafeurl/blob/main/subtitelreza.srt (Reza Nurdiansyah F)
 2.
 3.
