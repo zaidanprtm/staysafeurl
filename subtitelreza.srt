@@ -1,6 +1,6 @@
 ﻿1
 00:00:03,000 --> 00:00:06,000
-Zaidan :Assalamualaikum warrahmatullah hibawarakatuh
+Zaidan :Assalamualaikum warrahmatullahi wabarakatuh
 
 2
 00:00:06,000 --> 00:00:09,000
@@ -8,11 +8,11 @@ Reza: Walaikumsalam warrahmatullah hiwabarakatuh
 
 3
 00:00:09,000 --> 00:00:16,000
-Zaidan :Perkenalkan nama saya Zaidan Pratama saya seorang mahasiswa ilmu komputer
+Zaidan : Perkenalkan nama saya Zaidan Pratama saya seorang mahasiswa ilmu komputer
 
 4
 00:00:16,000 --> 00:00:22,000
-Zaidan : Annggakatan 2018 di Universitas Negeri Jakarta
+Zaidan : Angkatan 2018 di Universitas Negeri Jakarta
 
 5
 00:00:22,000 --> 00:00:30,000
@@ -20,7 +20,7 @@ Zaidan : Pada kesempatan kali ini saya ingin mengadakan wawancara user testing
 
 6
 00:00:30,000 --> 00:00:36,000
-Zaidan : untuk aplikasi yang saya kembannggakan pada mata kuliah Mobile Computing.
+Zaidan : untuk aplikasi yang saya kembangkan pada mata kuliah Mobile Computing.
 
 7
 00:00:36,000 --> 00:00:44,000
