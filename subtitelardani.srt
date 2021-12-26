@@ -1,0 +1,840 @@
+﻿1
+00:00:02,200 --> 00:00:04,400
+Assalamualaikum warahmatullahi wabarakatuh
+
+2
+00:00:04,680 --> 00:00:05,940
+uhuk
+
+3
+00:00:06,220 --> 00:00:07,650
+Waalaikumsalam warahmatullahi wabarakatuh
+
+4
+00:00:07,980 --> 00:00:11,180
+Perkenalkan nama saya Zaidan Pratama
+
+5
+00:00:11,200 --> 00:00:13,250
+Saya seorang mahasiswa
+
+6
+00:00:13,250 --> 00:00:15,250
+di jurusan Ilmu Komputer
+
+7
+00:00:15,250 --> 00:00:19,420
+Fakultas MIPA di Universitas Negri Jakarta
+
+8
+00:00:19,420 --> 00:00:21,420
+Angkatan 2018
+
+9
+00:00:21,600 --> 00:00:26,050
+Pada kali ini saya ingin melakukan wawancara user testing
+
+10
+00:00:26,120 --> 00:00:28,450
+Mengenai aplikasi yang sudah saya kembangkan
+
+11
+00:00:28,450 --> 00:00:30,450
+Yaitu Stay Safe URL
+
+12
+00:00:30,800 --> 00:00:36,510
+Sebelum itu bersama saya ada mas Mas Muhammad Ardani
+
+13
+00:00:36,510 --> 00:00:38,510
+Bisa diperkenalkan mas dirinya
+
+14
+00:00:39,880 --> 00:00:42,740
+Nama saya Muhammad Ardani
+
+15
+00:00:42,740 --> 00:00:47,370
+Saya masih seorang mahasiswa jurusan Ilmu Komptuer
+
+16
+00:00:48,000 --> 00:00:50,620
+Berdomisili di Jakarta
+
+17
+00:00:50,620 --> 00:00:54,800
+Kesehariannya gimana mas? kuliah aja berarti?
+
+18
+00:00:55,310 --> 00:00:59,310
+Iya saat ini saya berkuliah dan magang
+
+19
+00:00:59,310 --> 00:01:02,970
+Berarti kan jurusan Ilmu Komputer ya
+
+20
+00:01:02,970 --> 00:01:06,510
+Familiarkan dengan link atau URL ya
+
+21
+00:01:07,080 --> 00:01:09,020
+Iya sangat familiar
+
+22
+00:01:09,020 --> 00:01:15,020
+Kira-kira dari mas ardani pernah kena semacam kaya
+
+23
+00:01:15,200 --> 00:01:20,570
+Phising atau Virus atau Rasomeware gara-gara salah klik url atau
+
+24
+00:01:20,570 --> 00:01:24,280
+Mengunjungi website yang salah atau semacamnya gitu mas
+
+25
+00:01:25,310 --> 00:01:28,000
+oh ya pernah banget itu
+
+26
+00:01:28,620 --> 00:01:31,420
+Waktu kapan ya kira-kira mas
+
+27
+00:01:32,110 --> 00:01:37,420
+Waktu masih awal-awal kuliah masih semester awal
+
+28
+00:01:40,220 --> 00:01:43,710
+Jadi akun game saya game
+
+29
+00:01:44,800 --> 00:01:49,710
+Kena phising
+
+30
+00:01:49,710 --> 00:02:01,250
+Jadi game saya kan game FPS jadi saya awalnya diiming-imingi mendapatkan Skin senjata baru
+
+31
+00:02:01,880 --> 00:02:09,140
+Oleh karnanya saya membuka link tersebut untuk mendapat janji tersebut
+
+32
+00:02:09,880 --> 00:02:18,510
+Tapi karna link tersebut link palsu atau saya kena phising
+
+33
+00:02:18,510 --> 00:02:26,620
+Akibatnya akun saya hilang di hack sama pembuat link tersebut
+
+34
+00:02:26,620 --> 00:02:29,310
+dan tidak dapat dikembalikan lagi
+
+35
+00:02:29,600 --> 00:02:35,250
+Berarti itu kejadiannya kena pising dan akunnya hilang ya mas ya
+
+36
+00:02:35,250 --> 00:02:45,820
+nah itu kalo boleh tau untuk bukti sebagai user yang pernah kena phising dan target market saya atau target youtube saya
+
+37
+00:02:46,050 --> 00:02:55,200
+nah bisa ShareScreen ga sih mas mungkin bisa akun baru yang telah dimiliki atau pernah bermain game tersebut
+
+38
+00:02:55,200 --> 00:02:59,370
+bisa di ShareScreen saya jadikan Host dlu biar bisa ShareScreen mas
+
+39
+00:03:02,800 --> 00:03:05,880
+Ntar kalo udah bisa dibalikin hostnya
+
+40
+00:03:06,850 --> 00:03:10,540
+Baik ini saya izin ShareScreen ya
+
+41
+00:03:10,680 --> 00:03:11,600
+Iya boleh mas
+
+42
+00:03:16,680 --> 00:03:21,710
+jadi game yang saya mainkan dulu adalah PointBlank
+
+43
+00:03:22,970 --> 00:03:27,880
+Ini akun terbaru saya akun terakhir
+
+44
+00:03:29,650 --> 00:03:38,280
+Yang terkena phising itu nicknya BlackBance sudah gak bisa digunakan lagi
+
+45
+00:03:38,280 --> 00:03:48,400
+okee game PointBlank brarti ini akun baru setelah di hack kena phising
+
+46
+00:03:48,740 --> 00:03:51,140
+iyaa kena dulu kena phising
+
+47
+00:03:51,140 --> 00:03:53,650
+Masih aktif bermain mas sampe sekarang?
+
+48
+00:03:55,650 --> 00:04:02,110
+Kadang-kadang kalau ada waktu luang saya maen game
+
+49
+00:04:03,370 --> 00:04:11,080
+Nah berangkat dari situ misalkan dibikin suatu aplikasi yang fungsinya mengecek keamanan URL atau Link
+
+50
+00:04:11,080 --> 00:04:15,480
+Mas kira-kira tertarik ga buat download atau mencobanya mas
+
+51
+00:04:17,420 --> 00:04:19,940
+Gimana tadi?
+
+52
+00:04:20,170 --> 00:04:29,820
+Kalau ada aplikasi yang fungsinya mengecek keamanan suatu link mas kira-kira tertarik mencobanya ato ngga
+
+53
+00:04:29,820 --> 00:04:36,280
+Oh jadi kayak bisa tau link tersebut asli atau tidak ya
+
+54
+00:04:36,280 --> 00:04:44,800
+Iya betul mas lebih keamananya aman atau ngga Linknya untuk di kunjungi atau berbahaya atau mencurigakan
+
+55
+00:04:45,710 --> 00:04:52,960
+Iya sih tertarik banget itu soalnya kan lagi zamannya Hoax ya
+
+56
+00:04:54,970 --> 00:04:58,450
+Oke mas kalau gitu saya share link aplikasnya ya
+
+57
+00:04:59,080 --> 00:05:00,280
+Iya
+
+58
+00:05:10,910 --> 00:05:16,280
+Oiya hostnya mas bisa dibalikin ke saya
+
+59
+00:05:16,850 --> 00:05:18,110
+Udah-udah
+
+60
+00:05:18,110 --> 00:05:25,880
+Oke ini linknya saya share di chat bisa di download ntar kalo udah bisa dikabari ya
+
+61
+00:05:37,370 --> 00:05:40,740
+Ini yang staysafe URL ya
+
+62
+00:05:40,970 --> 00:05:43,880
+Iya betul mas yang logonya ungu
+
+63
+00:05:45,370 --> 00:05:47,250
+Ungu kebiru-biruan
+
+64
+00:06:04,850 --> 00:06:09,080
+Sebentar ya koneksi saya agak ini
+
+65
+00:06:09,080 --> 00:06:11,080
+Oke mas gapapa
+
+66
+00:06:28,910 --> 00:06:30,170
+Okee
+
+67
+00:06:31,650 --> 00:06:33,820
+Ini langsung dibuka mas?
+
+68
+00:06:34,620 --> 00:06:37,710
+Iya mas bisa langusng dibuka aja boleh
+
+69
+00:06:44,110 --> 00:06:46,300
+Stay safe Stay Connected
+
+70
+00:06:46,940 --> 00:06:48,840
+Iya betul mas
+
+71
+00:06:53,480 --> 00:06:55,140
+Udah dibuka mas?
+
+72
+00:06:55,940 --> 00:06:57,710
+Udah-udah dibuka nih
+
+73
+00:06:57,710 --> 00:07:06,620
+Nah itu kan pertama ada tampilanya home kan disitu ada fitur untuk mengcek
+
+74
+00:07:07,820 --> 00:07:21,540
+Kumpulan link phising trekini atau paling update yang terbaru ini bisa dicoba-coba scroll dulu mas dilihat-lihat mas
+
+75
+00:07:27,880 --> 00:07:30,910
+Oh ini linknya gajelas gini ya?
+
+76
+00:07:30,910 --> 00:07:40,970
+Iya mas kan link phising jadi ya gitu deh kebanyakan plesetan dari link asli atau nambah-nambah
+
+77
+00:07:40,970 --> 00:07:46,450
+ginian nambah2 kata di domainnya
+
+78
+00:07:46,450 --> 00:07:52,170
+Kalo udah mungkin dari mas ardani bisa mengasi tanggapan terkait
+
+79
+00:07:52,170 --> 00:08:01,650
+Fungsionalitas atau tampilan dari fitur ini atau fitur phising link ini mas
+
+80
+00:08:06,220 --> 00:08:08,620
+Paling masukan saya
+
+81
+00:08:09,600 --> 00:08:19,310
+Ini dikasi tau kalo link-link kumpulan link ini adalah contoh link phising sih
+
+82
+00:08:21,300 --> 00:08:32,620
+Oiya tapikan di judulnya udah ada mungkin ditambah detailnya kali mas ya
+
+83
+00:08:33,600 --> 00:08:34,620
+Oh ini
+
+84
+00:08:36,900 --> 00:08:38,480
+Oh iya saya ga liat tadi
+
+85
+00:08:38,480 --> 00:08:39,580
+Okee
+
+86
+00:08:39,580 --> 00:08:41,680
+atau present phising link ya
+
+87
+00:08:41,680 --> 00:08:43,740
+Iyaa mas benar
+
+88
+00:08:43,740 --> 00:08:45,740
+Maaf mas ga keliatan tadi
+
+89
+00:08:50,140 --> 00:08:53,060
+Iyaa tampilan udah cukup bagus keliatanya
+
+90
+00:08:55,520 --> 00:08:58,100
+Bisa discroll pas
+
+91
+00:08:59,700 --> 00:09:05,560
+16 abis itu selanjutnya bisa ke scroll semua udah bagus sih ini
+
+92
+00:09:06,220 --> 00:09:11,060
+Kalo dari fungsionalitas sendiri mas atau kontennya ada tanggapan ga mas?
+
+93
+00:09:11,060 --> 00:09:15,960
+Kaya kurang detail kah atau butuh ditambah sesuatu
+
+94
+00:09:18,100 --> 00:09:20,620
+Iya paling detail tadi
+
+95
+00:09:27,240 --> 00:09:28,440
+Link ini tu
+
+96
+00:09:31,100 --> 00:09:32,500
+Phising
+
+97
+00:09:34,620 --> 00:09:38,620
+Ini bisa nemuin phising yang ini gimana ya
+
+98
+00:09:40,260 --> 00:09:41,420
+Maksudnya gimana mas
+
+99
+00:09:42,000 --> 00:09:43,700
+Oh ini ga bisa di klik ya?
+
+100
+00:09:43,700 --> 00:09:47,240
+Iya ga bisa mas masi belum bisa lebih tepatnya
+
+101
+00:09:50,280 --> 00:09:52,300
+Tapi nanti kalo di klik berbahaya ga ya?
+
+102
+00:09:52,680 --> 00:09:57,300
+Nah itu makanya mas saya bikin belum bisa di klik 
+
+103
+00:09:57,300 --> 00:10:04,220
+Karna kalo bisa di klik takutnya malah jadi bahaya buat user gitu kan
+
+104
+00:10:04,700 --> 00:10:13,540
+oh iya, mungkin buat esok atau pengembangan selanjutnya
+
+105
+00:10:13,800 --> 00:10:22,580
+itu bisa kebuka tapi secara safe dicopy linknya atau dikasi preview atau semacamnya mungkin nanti di pengembangan selanjutnya sih mas
+
+106
+00:10:23,180 --> 00:10:24,380
+Oh iya yaa
+
+107
+00:10:24,580 --> 00:10:30,860
+okee selesai fitur itu mungkin bisa ke diatas itu kan ada
+
+108
+00:10:32,600 --> 00:10:35,700
+untuk mengisi teks kan
+
+109
+00:10:35,700 --> 00:10:40,060
+Itu fungsinya untu mengisi meriksa url yang mau di periksa mas
+
+110
+00:10:40,060 --> 00:10:42,600
+Kan itu ada tombol report sama search
+
+111
+00:10:42,700 --> 00:10:46,580
+Kalo search itu kita nyari link itu aman atau tidak
+
+112
+00:10:46,580 --> 00:10:52,520
+Kalo report ini lebih kita mau report misal kita menemukan link mencurigakan ini
+
+113
+00:10:52,520 --> 00:10:58,720
+Nanti kita report trus kita lihat prosesnya ini ini reportnya gimana dari link ini
+
+114
+00:10:58,720 --> 00:11:02,740
+Apakah dia benar mencuirigakan atau gimana gitu karna 
+
+115
+00:11:03,600 --> 00:11:06,500
+Ga semua terdaftar kadang
+
+116
+00:11:06,800 --> 00:11:10,600
+di search gaada di report baru ada antriannya gitu
+
+117
+00:11:10,600 --> 00:11:13,620
+Mungkin bisa dicoba tanda search atau reportnya mas
+
+118
+00:11:15,440 --> 00:11:17,820
+Okee saya coba search
+
+119
+00:11:37,420 --> 00:11:38,920
+Scan finish
+
+120
+00:11:43,820 --> 00:11:47,520
+Iya itu kalo scan finish brarti udah keluar hasilnya
+
+121
+00:11:49,000 --> 00:11:50,940
+oiya ya
+
+122
+00:11:51,420 --> 00:11:55,160
+Hasil scannya ini cara bacanya gimana ya
+
+123
+00:11:55,680 --> 00:12:02,520
+Nah itu disitu ada sekitar 20 vendor keamanan
+
+124
+00:12:02,840 --> 00:12:07,900
+yang untuk memeriksa keamanan dari suatu
+
+125
+00:12:07,900 --> 00:12:11,840
+link atau vendor keamanan antivirus juga ada
+
+126
+00:12:12,100 --> 00:12:17,420
+Juga ada defender mungkin mas tau atau google safe browsing juga ada
+
+127
+00:12:17,840 --> 00:12:24,700
+Nah itu jadi linknya di cek oleh vendor keamanan itu dan 
+
+128
+00:12:25,220 --> 00:12:28,400
+dan dikasi reportnya atau hasilnya resultnya
+
+129
+00:12:28,760 --> 00:12:35,440
+ke search itu ada yang clean site ada yang dangereous seperti itu mas
+
+130
+00:12:38,520 --> 00:12:41,680
+dari berbagai ini ya
+
+131
+00:12:42,580 --> 00:12:45,860
+Iya security checker keamanan vendor keamanan gitu mas
+
+132
+00:12:49,840 --> 00:12:54,180
+Brarti ga ngambil dari satu security aja gitu 
+
+133
+00:12:54,460 --> 00:12:58,380
+Iya banyak mas ada sekitar 20an situsnya
+
+134
+00:13:18,040 --> 00:13:20,600
+Mungkin kalo udah dicoba-coba
+
+135
+00:13:20,840 --> 00:13:24,800
+Bisa ngasi tanggapannya mas terkait fitur searchingnya
+
+136
+00:13:25,080 --> 00:13:31,860
+Ada tanggapan terkait fungsionalitas atau tampilan kah bisa diomongin aja mas
+
+137
+00:13:33,100 --> 00:13:38,420
+Ya untuk fungsionalitas sangat baik ini dari banyak
+
+138
+00:13:39,000 --> 00:13:45,200
+security checker soalnya jadi bisa diliat dari kebanyakan
+
+139
+00:13:45,640 --> 00:13:47,800
+ini websitenya clean atau gak
+
+140
+00:13:48,100 --> 00:13:50,660
+Cuman saran saya
+
+141
+00:13:51,800 --> 00:13:54,000
+kan yang menggunakan
+
+142
+00:13:54,000 --> 00:13:57,900
+aplikasi ini kebanyakan orang awam
+
+143
+00:13:58,460 --> 00:14:01,160
+tidak terlalu mengerti
+
+144
+00:14:01,640 --> 00:14:05,020
+security checker jadi bisa dijelaskan
+
+145
+00:14:05,600 --> 00:14:11,780
+Sensi threatnya ini apa defender ini apa kaya ini judulnya
+
+146
+00:14:11,780 --> 00:14:19,360
+okee mas brarti harus ada arahan lebih lanjut vendor keamannya itu
+
+147
+00:14:19,360 --> 00:14:26,260
+untuk apa gitu jadi orang-orang bisa tau  bahwa yang di search itu apa yang ngesearch itu siapa gitu mas ya
+
+148
+00:14:26,660 --> 00:14:28,780
+iyaa benar
+
+149
+00:14:29,980 --> 00:14:31,680
+Kalo dari segi tampilan gimana mas?
+
+150
+00:14:32,640 --> 00:14:35,880
+dari segi tampilan udah bagus
+
+151
+00:14:37,920 --> 00:14:40,940
+Ngga ada nabrak-nabrak udah bagus
+
+152
+00:14:43,120 --> 00:14:46,000
+Paling warnanya agak monoton aja kali ya
+
+153
+00:14:46,300 --> 00:14:48,920
+Oh iyaa okee mas
+
+154
+00:14:49,340 --> 00:14:52,920
+Kalau yang clean mungkin bisa dibuat warna hijau gitu
+
+155
+00:14:53,520 --> 00:14:56,080
+Iyaa mas paham-paham
+
+156
+00:14:56,920 --> 00:15:00,300
+Baik mas terimakasih atas masukannya
+
+157
+00:15:00,580 --> 00:15:04,360
+Boleh ke fitur selanjutnya fitur yang terakhir yaitu report
+
+158
+00:15:04,760 --> 00:15:08,560
+Bisa dicoba mas ntar kalo dicoba apakalh baik mas
+
+159
+00:15:09,900 --> 00:15:13,760
+Oh ini fitur report harus masukin link
+
+160
+00:15:13,760 --> 00:15:16,220
+Clean apa phising mas
+
+161
+00:15:16,220 --> 00:15:21,780
+Bebas misalkan link itu fungsinya untuk ngereport link mencurigakan gitu mas
+
+162
+00:15:21,780 --> 00:15:27,480
+Misalkan dapat link ini dari mana trus kita gatau entah mau di search atau di report
+
+163
+00:15:27,480 --> 00:15:30,980
+ntar bisa ada hasilnya mas gitu
+
+164
+00:15:31,600 --> 00:15:37,000
+Kalo di report itu lebih ke nunggu antrian gitu kalo searh belum tantu ada
+
+165
+00:15:37,000 --> 00:15:47,320
+jadi kalo search gaada kita harus report dlu setelah di report  masuk antrian dan bakal diproses keluar haslinya gitu
+
+166
+00:15:48,260 --> 00:15:52,200
+Ini coba saya pencet report ya 
+
+167
+00:15:52,200 --> 00:15:54,200
+Iya boleh mas silahkan
+
+168
+00:15:57,860 --> 00:16:00,640
+Ini kalo di detection
+
+169
+00:16:01,600 --> 00:16:03,840
+Tulisan clean artinya apa ya
+
+170
+00:16:04,440 --> 00:16:13,220
+Berarti itu linknya aman mas ada sumerry ada detection ada lain-lain disitu
+
+171
+00:16:13,960 --> 00:16:19,080
+nah itu page report dari link yang sudah di report tadi
+
+172
+00:16:19,200 --> 00:16:24,580
+Summary itu lebih kearah kesimpulan 
+
+173
+00:16:24,580 --> 00:16:29,400
+kalo detection itu tadi nunjukin hasil deteksinya gitu
+
+174
+00:16:32,860 --> 00:16:36,740
+Lebih detail dari search tadi mungkin ya
+
+175
+00:16:37,300 --> 00:16:39,080
+Iya bisa mas bisa dibilang gitu
+
+176
+00:16:57,940 --> 00:17:03,900
+Gimanas mas udah dicoba brarti ya apakah ada tanggapan atau
+
+177
+00:17:04,320 --> 00:17:08,060
+masukan terkait fungsionalitas atau tampilan
+
+178
+00:17:10,200 --> 00:17:14,820
+Ini yang report udah bagus banget sih ini
+
+179
+00:17:15,100 --> 00:17:18,180
+Ini langsung munculin 
+
+180
+00:17:18,940 --> 00:17:20,020
+dari web ya
+
+181
+00:17:20,860 --> 00:17:29,720
+Ya  mas itu tampilanya seperti buka browser di hp
+
+182
+00:17:29,720 --> 00:17:31,720
+iya sperti buka browser di hp
+
+183
+00:17:31,720 --> 00:17:32,800
+Iya betul
+
+184
+00:17:33,420 --> 00:17:38,620
+ini lebih bagus ini responsive semua
+
+185
+00:17:41,320 --> 00:17:43,360
+Enak juga diliatnya
+
+186
+00:17:44,540 --> 00:17:48,360
+dan informasi yang diberikan udah informatif
+
+187
+00:17:49,300 --> 00:17:51,600
+Oke terimakasih mas
+
+188
+00:17:51,980 --> 00:17:59,800
+Berarti masukannya kurang lebih untuk report ini positif ya
+
+189
+00:18:01,100 --> 00:18:07,440
+Okee brarti pertanyaan terakhir ini mas kira-kira ni kalau misalkan
+
+190
+00:18:07,440 --> 00:18:11,380
+kan mas meimiliki lingkungan keluarga lingkungan pertemanan gitu
+
+191
+00:18:11,600 --> 00:18:17,020
+kalo mas ardani sendiri mau ga ngasi rekomendasi ini ke lingkungan
+
+192
+00:18:17,020 --> 00:18:21,640
+kayak eh pake ini ngecek link biar aman atau ga gitu
+
+193
+00:18:21,740 --> 00:18:27,940
+kalau dari mas ardani mau ga dan alsanya kenapa untuk menyebarkan aplikasi ini
+
+194
+00:18:30,640 --> 00:18:35,960
+saya sangat ingin menyebarkan ke lingkungan keluarga saya karna
+
+195
+00:18:36,940 --> 00:18:41,280
+belum lama ini ayah saya terkena
+
+196
+00:18:41,840 --> 00:18:44,640
+phising dia asal
+
+197
+00:18:45,380 --> 00:18:52,140
+mengklik link sms dengan bahasa yang tidak jelas
+
+198
+00:18:52,420 --> 00:18:55,660
+dia klik lalu whatsapnya langsung
+
+199
+00:18:56,900 --> 00:18:59,760
+berpindah tangan ke device yang lain
+
+200
+00:18:59,760 --> 00:19:04,760
+Berarti dari ayahnya sendiri baru-baru ini juga kena ya mas ya
+
+201
+00:19:05,320 --> 00:19:06,460
+iya
+
+202
+00:19:08,060 --> 00:19:13,120
+Berarti biar lebih safe terhadap link phising ya mas
+
+203
+00:19:13,840 --> 00:19:17,100
+ga sembarangan ngeklik link
+
+204
+00:19:18,300 --> 00:19:21,520
+Iyaa baik mas
+
+205
+00:19:21,820 --> 00:19:29,380
+Oke kalo itu mungkin itu aja dari saya untuk wawancara user testing stay safe url ini
+
+206
+00:19:30,100 --> 00:19:37,980
+Terimaksih banyak untuk mas ardani yang sudah menyempatkan waktu di malam hari ni
+
+207
+00:19:38,480 --> 00:19:44,820
+dan semoga kuliahnya lancar dan ga kena phising lagi keluarganya lingkungannya
+
+208
+00:19:44,820 --> 00:19:49,080
+semuanya dan sehat selalu terimakasi banyak mas
+
+209
+00:19:49,900 --> 00:19:51,640
+Iya mas terimakasih
+
+210
+00:19:51,640 --> 00:19:54,500
+Wassalamualaikum warahmatullahi wabarakatuh
+
