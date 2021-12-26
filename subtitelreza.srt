@@ -1,6 +1,6 @@
-﻿1
+1
 00:00:03,000 --> 00:00:06,000
-Zaidan :Assalamualaikum warrahmatullahi wabarakatuh
+Zaidan :Assalamualaikum warrahmatullah hibawarakatuh
 
 2
 00:00:06,000 --> 00:00:09,000
@@ -8,7 +8,7 @@ Reza: Walaikumsalam warrahmatullah hiwabarakatuh
 
 3
 00:00:09,000 --> 00:00:16,000
-Zaidan : Perkenalkan nama saya Zaidan Pratama saya seorang mahasiswa ilmu komputer
+Zaidan :Perkenalkan nama saya Zaidan Pratama saya seorang mahasiswa ilmu komputer
 
 4
 00:00:16,000 --> 00:00:22,000
@@ -68,7 +68,7 @@ Zaidan : Gara gara salah ngeakses url atau semacamnya atau gimana gitu mas,perna
 
 18
 00:01:49,000 --> 00:01:58,700
-Kalo ransomware sih belom pernah deh cuman munnggakin kalo virus dari download yang web link link aneh gitu kayanya pernah deh
+Kalo ransomware sih belom pernah deh cuman mungkin kalo virus dari download yang web link link aneh gitu kayanya pernah deh
 
 19
 00:01:59,400 --> 00:02:09,440
@@ -100,7 +100,7 @@ Zaidan : nah kita boleh sharescreen nggak mas buat. Kan ini install ulangnya ber
 
 26
 00:02:52,120 --> 00:03:01,480
-Zaidan : munnggakin bisa diliatin history downloadnya itukan harusnya paling tuanya itu di sekitaran agustus atau september kan berarti
+Zaidan : mungkin bisa diliatin history downloadnya itukan harusnya paling tuanya itu di sekitaran agustus atau september kan berarti
 
 27
 00:03:01,480 --> 00:03:04,960
@@ -312,7 +312,7 @@ Sama..
 
 79
 00:07:44,760 --> 00:07:48,480
-Munnggakin daripada perpanjang ke bawah agak kesamping
+Mungkin daripada perpanjang ke bawah agak kesamping
 
 80
 00:07:48,480 --> 00:07:50,480
@@ -328,7 +328,7 @@ Zaidan : Sama apa mas tadi,sorry
 
 83
 00:07:56,040 --> 00:08:01,240
-Sama font warnanya munnggakin agak sedikit ke soft gitu
+Sama font warnanya mungkin agak sedikit ke soft gitu
 
 84
 00:08:01,240 --> 00:08:04,880
@@ -348,7 +348,7 @@ Ya
 
 88
 00:08:15,640 --> 00:08:25,400
-Oke. Berarti akan saya pertimbannggakan untuk menambah itu dan juga merubah tampilannya
+Oke. Berarti akan saya pertimbangkan untuk menambah itu dan juga merubah tampilannya
 
 89
 00:08:25,400 --> 00:08:31,360
@@ -400,7 +400,7 @@ Oke kalo dari tampilan atau fungsi ada masukkan nggak mas?
 
 101
 00:09:27,510 --> 00:09:33,080
-Munnggakiin fungsinya dah cukup ya. Munnggakin tampilannya lagi kali dengan warnanya munnggakin ya
+Mungkin fungsinya dah cukup ya. Mungkin tampilannya lagi kali dengan warnanya mungkin ya
 
 102
 00:09:33,080 --> 00:09:35,560
@@ -432,7 +432,7 @@ Jadi sih ada beberapa yang saya tahu kan ya. Cuman jadi terpecaya gitu sih
 
 109
 00:09:57,720 --> 00:10:02,800
-Munnggakin cukup sih untuk fitur yang ini. Cukup untuk dimengerti
+Mungkin cukup sih untuk fitur yang ini. Cukup untuk dimengerti
 
 110
 00:10:03,840 --> 00:10:10,200
@@ -580,7 +580,7 @@ Kayanya untuk sekarang sih cukup deh
 
 146
 00:13:18,240 --> 00:13:23,520
-soalnya inikan kaya fiturnya dah lennggakap dah detail lah udah ngasih tau summarnya juga
+soalnya inikan kaya fiturnya dah lengkap dah detail lah udah ngasih tau summarnya juga
 
 147
 00:13:24,160 --> 00:13:27,200
@@ -624,7 +624,7 @@ Mas menyarankan misalkan aplikasi ini sarankan aplikasi ini ke teman mas atau
 
 157
 00:14:05,920 --> 00:14:10,800
-ke linnggakungan mas gitu kira kira ada potensial menyarankan aplikasini kaya
+ke lingkungan mas gitu kira kira ada potensial menyarankan aplikasini kaya
 
 158
 00:14:10,800 --> 00:14:12,960
@@ -632,7 +632,7 @@ eh coba deh pake ini, ada nggak sih mas?
 
 159
 00:14:13,800 --> 00:14:16,760
-Munnggakin lebih ke keluarga kali ya
+Mungkin lebih ke keluarga kali ya
 
 160
 00:14:16,760 --> 00:14:23,040
@@ -640,7 +640,7 @@ soalnya kan kadang ada yg suka ngeshare link link di grup suka nggak jelas gitu 
 
 161
 00:14:23,040 --> 00:14:24,640
-munnggakin bisa di share ke situ sih
+mungkin bisa di share ke situ sih
 
 162
 00:14:25,040 --> 00:14:26,920
