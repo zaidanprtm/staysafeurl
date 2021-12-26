@@ -1,14 +1,14 @@
 1
 00:00:03,000 --> 00:00:06,000
-Zaidan :Assalamualaikum warrahmatullah hibawarakatuh
+Zaidan :Assalamualaikum warrahmatullahi wabarakatuh
 
 2
 00:00:06,000 --> 00:00:09,000
-Reza: Walaikumsalam warrahmatullah hiwabarakatuh
+Reza: Walaikumsalam warrahmatullahi wabarakatuh
 
 3
 00:00:09,000 --> 00:00:16,000
-Zaidan :Perkenalkan nama saya Zaidan Pratama saya seorang mahasiswa ilmu komputer
+Zaidan : Perkenalkan nama saya Zaidan Pratama saya seorang mahasiswa ilmu komputer
 
 4
 00:00:16,000 --> 00:00:22,000
