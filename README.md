@@ -14,9 +14,9 @@ Testing conducted on Friday, 24 December 2021
 # Recording Links
 1. https://youtu.be/MVtF7grVvrY (Reza Nurdiansyah F)
 2.
-3.
+3. https://www.youtube.com/watch?v=LLdxb_JiDQs&ab_channel=ZaidanPratama (Muhammad Ardani)
 
 Subs link:
 1. https://github.com/zaidanprtm/staysafeurl/blob/main/subtitelreza.srt (Reza Nurdiansyah F)
 2.
-3.
+3. https://github.com/zaidanprtm/staysafeurl/blob/main/subtitelardani.srt (Muhammad Ardani)
