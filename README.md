@@ -9,7 +9,7 @@ https://play.google.com/store/apps/details?id=com.zaidanpratama.staysafeurl
 2. Muhammad Asyraf Amanullah (CS student who got ransomware after downloaded an application extension from website)
 3. Muhammad Ardani (CS student who got his game account hijacked after login in phising website)
 
-Testing conducted on Friday, 24 December 2021
+All users testing conducted on Friday night, 24 December 2021
 
 # Recording Links
 1. https://youtu.be/MVtF7grVvrY (Reza Nurdiansyah F)
